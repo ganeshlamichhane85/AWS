@@ -1,0 +1,103 @@
+AWS (Amazon Web Services) offers a vast array of services across different categories. Here's a comprehensive list of AWS services, organized by category:
+
+***Compute***
+Amazon EC2:-------> Scalable virtual servers
+Amazon ECS:------->  Container orchestration service
+Amazon EKS:------->  Managed Kubernetes service
+AWS Lambda:------->  Serverless compute service
+AWS Batch:------->  Batch processing
+AWS Elastic Beanstalk:------->  Platform as a Service (PaaS) for web applications
+AWS Outposts:------->  On-premises extension of AWS
+
+***Storage***
+
+Amazon S3:------->  Object storage service
+Amazon EBS:------->  Block storage service
+Amazon EFS:------->  File storage service
+Amazon FSx:------->  Managed file systems (Windows, Lustre)
+Amazon Glacier:------->  Archival storage service
+AWS Backup:------->  Centralized backup service
+Database
+Amazon RDS:------->  Relational Database Service (supports multiple engines)
+Amazon DynamoDB:------->  NoSQL database
+Amazon Redshift:------->  Data warehouse service
+Amazon Aurora:------->  MySQL and PostgreSQL-compatible relational database
+Amazon DocumentDB:------->  Managed MongoDB-compatible database
+Amazon Neptune:------->  Graph database service
+Amazon Timestream:------->  Time-series database
+
+***Networking & Content Delivery***
+
+Amazon VPC:------->  Virtual Private Cloud
+Amazon CloudFront:------->  Content delivery network (CDN)
+AWS Direct Connect:------->  Dedicated network connection
+AWS Global Accelerator:------->  Global application performance
+Amazon Route 53:------->  DNS and routing service
+AWS Transit Gateway:------->  Network transit hub
+
+***Security, Identity & Compliance***
+
+AWS IAM:------->  Identity and access management
+AWS KMS:------->  Key management service
+AWS Secrets Manager:------->  Secrets management
+AWS Shield:------->  DDoS protection
+AWS WAF: Web Application Firewall
+AWS Config:------->  Configuration monitoring
+AWS CloudTrail:------->  Log and monitoring service
+
+***Analytics***
+
+Amazon EMR:------->  Big data processing with Hadoop
+Amazon Kinesis:------->  Real-time data streaming
+Amazon QuickSight:------->  Business intelligence service
+AWS Glue:------->  Data integration service
+Amazon Athena:------->  Querying data in S3 using SQL
+Amazon Elasticsearch Service:------->  Search and analytics engine
+
+***Machine Learning***
+
+Amazon SageMaker:------->  End-to-end machine learning service
+AWS Rekognition:------->  Image and video analysis
+AWS Lex:------->  Build conversational interfaces
+AWS Polly:------->  Text-to-speech service
+AWS Comprehend:------->  Natural language processing (NLP)
+AWS Translate:------->  Language translation
+
+***Developer Tools***
+
+AWS CodeCommit:------->  Source control service
+AWS CodeBuild:------->  Build service
+AWS CodeDeploy:------->  Deployment automation
+AWS CodePipeline:------->  Continuous integration and delivery (CI/CD)
+AWS Cloud9:------->  Cloud-based IDE
+AWS X-Ray:------->  Distributed tracing
+
+Management & Governance
+
+AWS CloudFormation:------->  Infrastructure as code
+AWS CloudWatch:------->  Monitoring and observability
+AWS Systems Manager:------->  Operational data management
+AWS Trusted Advisor:------->  Best practices recommendations
+AWS Service Catalog:------->  Manage and distribute IT services
+AWS Control Tower:------->  Multi-account management
+
+***Migration & Transfer***
+
+AWS Data Migration Service (DMS):-------> Database migration
+AWS Snowball:------->  Data transfer appliance
+AWS Migration Hub:------->  Centralized migration tracking
+AWS Application Migration Service:------->  Lift and shift migration
+
+***IoT**
+
+AWS IoT Core:------->  Managed cloud service for IoT devices
+AWS IoT Greengrass:------->  Edge computing for IoT
+AWS IoT Analytics:------->  Analyze IoT data
+AWS IoT Device Management:------->  Device provisioning and management
+
+***Business Applications***
+
+Amazon Chime:------->  Communication service
+Amazon WorkSpaces:------->  Managed virtual desktops
+Amazon WorkDocs:------->  Document collaboration service
+Amazon WorkMail:------->  Managed email and calendar
